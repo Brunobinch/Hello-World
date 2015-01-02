@@ -1,4 +1,4 @@
 Hello Cruel World
 ===========
 
-I love :coffee:, :pizza:, :nature:, and :gaming:.
+I love :coffee:, :pizza:, and :dancer:.
